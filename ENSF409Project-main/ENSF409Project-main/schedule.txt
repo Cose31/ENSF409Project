@@ -1,0 +1,107 @@
+Daily Schedule
+------------------------------00:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+
+-----Feedings-----
+7/Slinky | Prep-time: 5 mins. Feed time: 5 mins.
+
+-----Cleanings-----
+1/Loner | Cleaning time: 5 mins.
+2/Biter | Cleaning time: 5 mins.
+3/Bitter | Cleaning time: 5 mins.
+4/Pencil | Cleaning time: 5 mins.
+------------------------------01:00------------------------------
+-----Cleanings-----
+5/Eraser | Cleaning time: 5 mins.
+6/Annie, Oliver and Mowgli | Cleaning time: 5 mins.
+7/Slinky | Cleaning time: 5 mins.
+8/Spike | Cleaning time: 10 mins.
+9/Javelin | Cleaning time: 10 mins.
+10/Gatekeeper | Cleaning time: 10 mins.
+11/Sunshine | Cleaning time: 10 mins.
+13/Boots | Cleaning time: 5 mins.
+------------------------------02:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+
+-----Cleanings-----
+12/Shadow | Cleaning time: 10 mins.
+14/Spin | Cleaning time: 5 mins.
+15/Spot | Cleaning time: 5 mins.
+------------------------------04:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+------------------------------06:00------------------------------
+-----Tasks-----
+8/Spike | 5/Flush neck wound | 25 mins.
+8/Spike | 4/Administer antibiotics | 5 mins.
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+------------------------------08:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+------------------------------10:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+------------------------------12:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+------------------------------13:00------------------------------
+-----Tasks-----
+2/Biter | 9/Eyedrops | 25 mins.
+2/Biter | 10/Inspect broken leg | 5 mins.
+14/Spin | 10/Inspect broken leg | 5 mins.
+14/Spin | 8/Mange treatment | 15 mins.
+3/Bitter | 7/Give vitamin injection | 5 mins.
+4/Pencil | 7/Give vitamin injection | 5 mins.
+------------------------------14:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+15/Spot | 8/Mange treatment | 15 mins.
+5/Eraser | 7/Give vitamin injection | 5 mins.
+------------------------------15:00------------------------------
+-----Tasks-----
+12/Shadow | 3/Apply burn ointment back | 10 mins.
+------------------------------16:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+------------------------------18:00------------------------------
+-----Tasks-----
+8/Spike | 4/Administer antibiotics | 5 mins.
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+------------------------------19:00------------------------------
+-----Tasks-----
+7/Slinky | 2/Rebandage leg wound | 20 mins.
+
+-----Feedings-----
+1/Loner | Prep-time: 10 mins. Feed time: 5 mins.
+2/Biter | Feed time: 5 mins.
+3/Bitter | Feed time: 5 mins.
+4/Pencil | Feed time: 5 mins.
+5/Eraser | Feed time: 5 mins.
+13/Boots | Feed time: 5 mins.
+------------------------------20:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+
+-----Feedings-----
+8/Spike | Prep-time: 0 mins. Feed time: 5 mins.
+9/Javelin | Feed time: 5 mins.
+10/Gatekeeper | Feed time: 5 mins.
+11/Sunshine | Feed time: 5 mins.
+12/Shadow | Feed time: 5 mins.
+------------------------------21:00------------------------------
+-----Feedings-----
+14/Spin | Prep-time: 10 mins. Feed time: 5 mins.
+15/Spot | Feed time: 5 mins.
+------------------------------22:00------------------------------
+-----Tasks-----
+1/Loner | 9/Eyedrops | 25 mins.
+9/Javelin | 9/Eyedrops | 25 mins.
+13/Boots | 6/Give fluid injection | 10 mins.
+------------------------------23:00------------------------------
+-----Tasks-----
+6/Annie, Oliver and Mowgli | 1/Kit feeding | 30 mins.
+11/Sunshine | 8/Mange treatment | 15 mins.
+10/Gatekeeper | 7/Give vitamin injection | 5 mins.
+------------------------------
