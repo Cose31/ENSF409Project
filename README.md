@@ -7,3 +7,4 @@ adding functionality to call more volunteers on the system created for the volun
 The project involves Java coding, a sleek GUI and a functional system to confirm more volunteers for the center when they are required. 
 
 A UML diagram for the project is included.
+Testing scenarios were also required, therefore testing common errors that the code would encounter was ruled out.
